@@ -15,7 +15,7 @@ Semua data di `data/aduan_dummy.csv` fiktif.
 
 ## Cara menjalankan
 
-Butuh Python 3.9 atau lebih baru. Skrip hanya memakai pustaka standar.
+Butuh Python 3.10 atau lebih baru. Skrip hanya memakai pustaka standar.
 
 ```bash
 python src/cek_sla.py --acuan 2026-03-31

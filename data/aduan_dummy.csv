@@ -1,0 +1,13 @@
+id_aduan,tanggal_masuk,tanggal_selesai,kategori,status
+ADU-001,2026-01-05,2026-01-12,Lingkungan,selesai
+ADU-002,2026-01-08,2026-01-22,Lahan,selesai
+ADU-003,2026-01-10,2026-01-30,Lahan,selesai
+ADU-004,2026-01-15,2026-01-25,Ketenagakerjaan,selesai
+ADU-005,2026-01-20,2026-02-10,Lingkungan,selesai
+ADU-006,2026-02-01,2026-02-05,Sosial,selesai
+ADU-007,2026-02-03,2026-02-18,Ketenagakerjaan,selesai
+ADU-008,2026-02-10,2026-02-20,Lahan,selesai
+ADU-009,2026-02-14,2026-02-26,Sosial,selesai
+ADU-010,2026-03-01,,Lahan,proses
+ADU-011,2026-03-10,2026-03-19,Lingkungan,selesai
+ADU-012,2026-03-25,,Sosial,proses
